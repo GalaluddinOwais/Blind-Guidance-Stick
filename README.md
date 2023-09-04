@@ -17,7 +17,7 @@
 
 * Install Talkie library if not already installed
   
-  ("Sketch" ➔ "Include Library" ➔ "Manage Libraries" ➔ type "Talkie" in the search bar ➔ Locate Talkie and "Install")
+  ("Sketch" ➔ "Include Library" ➔ "Manage Libraries" ➔ type "Talkie" in the search bar ➔ Find Talkie and "Install")
 
 * Open the source code in the Arduino IDE
 
