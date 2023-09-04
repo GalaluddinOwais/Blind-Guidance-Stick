@@ -4,7 +4,7 @@
 # Key Achievements
 * Utilized Arduino Uno and its integrated development environment to build the embedded system.
 * Designed a stick with hands-free speakers, forward-facing sonar capable of rotating, and another down-ward facing sonar attached to
-* Enabled the speakers to issue warnings to the user about danger in front of or beneath them and to provide surrounding distance information using the rotating sonar upon request.
+* Enabled the speakers to issue warnings to the user about danger in front of or beneath them, and to provide surrounding distance information using the rotating sonar upon request.
 
 # Requirements
  `Arduino IDE`
