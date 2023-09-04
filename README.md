@@ -1,5 +1,5 @@
 # About the project
-#### This project provides a device in the form of a stick designed to assist visually impaired individuals in gaining awareness of their surroundings and guiding them during their daily navigation. It accomplishes this by issuing audio warnings about obstacles or gaps detected in front of the user and, upon request, by describing the spatial situation in audio format to help wayfinding.
+#### This project provides a device in the form of a stick designed to assist visually impaired individuals in gaining awareness of their surroundings and to guide them during their daily navigation. It accomplishes this by issuing audio warnings about obstacles or gaps detected in front of the user and, upon request, by describing the spatial situation in audio format to help wayfinding.
 
 # Key Achievements
 * Utilized Arduino Uno and its integrated development environment to build the embedded system.
