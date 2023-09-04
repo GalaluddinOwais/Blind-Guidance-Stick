@@ -25,7 +25,7 @@
 
 * Burn the code to the Arduino board
   
-  (by clicking on "Upload" button with the right arrow symbol "➔")
+  (Click on "Upload" button with the right arrow symbol "➔")
   
 ![BioAnalysis project schema](https://github.com/GalaluddinOwais/Blind-Guidance-Stick-/assets/111979327/d2111e5d-5537-45f3-a997-8f28f861207d)
 
