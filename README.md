@@ -15,19 +15,25 @@
 
 * Open the Arduino IDE
 
-* Install Talkie library if not already installed ("Sketch" ➔ "Include Library" ➔ "Manage Libraries" ➔ type "Talkie" in the search bar ➔ Locate Talkie library and "Install")
+* Install Talkie library if not already installed
+  
+  ("Sketch" ➔ "Include Library" ➔ "Manage Libraries" ➔ type "Talkie" in the search bar ➔ Locate Talkie library and "Install")
 
 * Open the source code in the Arduino IDE
 
 * Connect the Arduino board to your computer (via USB)
 
-* Burn the code to the Arduino board (by clicking on "Upload" button with the right arrow symbol "➔")
+* Burn the code to the Arduino board
+  
+  (Click on "Upload" button with the right arrow symbol "➔")
+  
+![BioAnalysis project schema](https://github.com/GalaluddinOwais/Blind-Guidance-Stick-/assets/111979327/d2111e5d-5537-45f3-a997-8f28f861207d)
 
 
-#Demonstration
+# Demonstration
 
 [Youtube link](https://www.youtube.com/watch?v=BvNhP8tvkyU)
 
 
-#Additional Notes
+# Additional Notes
 #### The project was about making use of electronic hardware. Using advanced methods like computer vision was out of the scope
